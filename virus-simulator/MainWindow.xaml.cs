@@ -39,7 +39,7 @@ namespace virus_simulator
         The following string filePath has to be adjusted!
 
         */
-        string filePath = @"C:\xampp\htdocs\projects\virus-simulator\virus-simulator\worlddatabank.xml";
+        string filePath = @"C:\xampp\htdocs\Projekte\VS\virus-simulator-master\virus-simulator-master\virus-simulator\worlddatabank.xml";
 
         public MainWindow()
         {
